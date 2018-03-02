@@ -2,7 +2,6 @@
   <div class="hello">
     <pre>
       {{ msg }}
-      <img src="https://img.shields.io/github/release/qubyte/rubidium.svg" alt="">
       # 先安装依赖
       npm install
 
